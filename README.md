@@ -1,2 +1,2 @@
 # hello-world
-se trata de mostrar "Hello, World!"
+Trata-se de mostrar "Hello, World!"
